@@ -1,0 +1,1 @@
+-- Simulated WordPress database with imported blog content
