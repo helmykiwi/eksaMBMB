@@ -21,7 +21,7 @@
     <div class="card">
       <h2>Hubungi Kami</h2>
       <p>Dapatkan maklumat untuk menghubungi pihak EKSA MBMB.</p>
-      <a href="hubungi.php">Hubungi</a>
+      <a href="hubungi.php">Hubung</a>
     </div>
   </section>
 </main>
